@@ -54,3 +54,6 @@ function qb2() {
 function app() {
     location.href = "https://drive.google.com/file/d/11kB96ID0WPRXEGvlgjCDezggbc6_EGva/view?usp=sharing";
 }
+function splchapter() {
+    location.href = "https://drive.google.com/file/d/1V1yXr4EwV0a7VE44g794eroKZu579iRw/view?usp=sharing";
+}
